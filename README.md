@@ -22,5 +22,10 @@
   <img src="https://skillicons.dev/icons?i=java,flutter,python,css,html,unity,mysql,cs" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/SofiaGi27/SofiaGi27/blob/main/Flower%20Florecita%20Sticker%20by%20Karol%20G.gif?raw=true" width="200">
+</p>
+
+
 
   
