@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="animation.gif" width="35%">
+</p>
 
-<!--
-**SofiaGi27/SofiaGi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=FF69B4&size=35&width=1000&lines=¡Hola!+Soy+Sofía+Gómez+💗;Desarrolladora+enfocada+en+Frontend+✨;Amante+del+diseño+y+la+experiencia+de+usuario;¡Bienvenido/a+a+mi+perfil!+🌸">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💖 Sobre mí
+
+- 🎓 Soy desarrolladora de aplicaciones multiplataforma
+- 💅 Me encanta el Frontend, el diseño y la creatividad
+- 🛠️ Actualmente aprendiendo JavaScript, React y Angular
+
+ <h3 align="center">💻 Tecnologías que uso:</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,flutter,python,css,html,unity,mysql,cs" />
+</p>
+
+
+  
